@@ -1,6 +1,6 @@
-## Customer Churn Prediction With Artificial Neural Network 
+## Customer Churn Prediction With Artificial Neural Network 🛃
 
-## Overview
+## Overview 🔍
 Customer churn prediction is the process of identifying customers who are likely to leave a business. In this project, we analyze a telecom dataset to predict whether a customer will churn or not. The goal is to build a deep learning model and evaluate its performance using metrics such as Precision, Recall, and F1-score.
 
 ## Dataset
@@ -74,5 +74,11 @@ Ratio ≈ 2.76 (Non-churned : Churned)
 - Features like tenure, monthly charges, and contract type are strong indicators of churn.
 
 ## How to Run
+
+1. Clone the repository
+```git bash
+git clone https://github.com/sowmya13531/Customer-Churn-Prediction-with-ANN/git
+cd Customer-Churn-Prediction-with-ANN
+```
 
 *Download the colab notebook.Run it locally.*
