@@ -81,4 +81,6 @@ git clone https://github.com/sowmya13531/Customer-Churn-Prediction-with-ANN.git
 cd Customer-Churn-Prediction-with-ANN
 ```
 
-*Download the colab notebook.Run it locally.*
+or 
+
+2. *Download the colab notebook.Run it locally.*
