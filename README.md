@@ -77,7 +77,7 @@ Ratio ≈ 2.76 (Non-churned : Churned)
 
 1. Clone the repository
 ```git bash
-git clone https://github.com/sowmya13531/Customer-Churn-Prediction-with-ANN/git
+git clone https://github.com/sowmya13531/Customer-Churn-Prediction-with-ANN.git
 cd Customer-Churn-Prediction-with-ANN
 ```
 
